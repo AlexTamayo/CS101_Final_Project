@@ -535,3 +535,5 @@ while True:
         theRace(mainDriver, mainTrack)
     else:
         break
+
+'''This is just to test the Git function'''
