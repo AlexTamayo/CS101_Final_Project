@@ -544,8 +544,6 @@ while True:
 '''
 FUTURE IDEAS:
 
-TO DOs:
-
 "At this time, the best time you can make with your current settings is of X:XX:XX. There are somethings you can change to improve your time. You can change your tires if they're old, improve your driving skills
 bla, bla."
 
