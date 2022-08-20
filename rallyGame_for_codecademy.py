@@ -571,5 +571,11 @@ ask if start race
 
 show results and finish
 
+Dynamically change best stage time depending on the stage condition.
+    IN  12 - trackRecord = 1299.547
+    IN 217 - def stageTime(driver, car, track)
+    IN 
+
+
 
 '''
