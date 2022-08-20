@@ -536,4 +536,40 @@ while True:
     else:
         break
 
-'''This is just to test the Git function'''
+
+
+'''
+FUTURE IDEAS:
+
+"At this time, the best time you can make with your current settings is of X:XX:XX. There are somethings you can change to improve your time. You can change your tires if they're old, improve your driving skills
+bla, bla."
+
+NAME
+LASTNAME
+AGE
+SKILL LEVEL
+APROX TIME in current track with current skill level
+
+Ask if would like to spend months training before racing. How many months? IF would he rather race?
+
+Show new skill level
+
+ask if want to keep training or would rather race
+
+get main players new tires
+
+Show time with current stats
+Ask if would like to spend time training and improving.
+Show stats
+Ask if satisfied
+if yes, move on
+if no, go back to asking about training
+
+show drivers
+
+ask if start race
+
+show results and finish
+
+
+'''
