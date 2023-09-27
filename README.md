@@ -6,7 +6,7 @@ Welcome to my WRC Racing Game project! Developed as my capstone project for the 
 
 ## Video
 
-
+https://github.com/AlexTamayo/CS101_Final_Project/assets/3316856/03a1ad57-e9a4-47d7-9f22-4b9a832a40ef
 
 ## Features
 
