@@ -1,3 +1,45 @@
+""" 
+
+Breaking down a single Python script into multiple files can make it more organized, easier to manage, and modular.
+
+1. main.py: Holds the game loop, initial configurations, and game controls.
+2. racer.py: Contains the Racer class, including attributes and methods related to a racer's state.
+3. race.py: Contains the Race class that deals with race setup, track, and race-related calculations.
+4. util.py: Common utilities, helper functions, and constants.
+
+WRC-Racing-Game/
+|-- main.py
+|-- racer.py
+|-- race.py
+|-- util.py
+
+
+FILE BREAKDOWN
+
+main.py
+
+  Import statements
+  Game initialization code
+  Main game loop
+
+racer.py
+
+  class Racer:
+      # Racer related code here
+
+race.py
+
+  class Race:
+      # Race related code here
+
+util.py
+
+    Constants like MAX_SPEED, MIN_SPEED
+    Helper functions
+
+"""
+
+
 import random
 import math
 import time
